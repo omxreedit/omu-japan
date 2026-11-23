@@ -1,0 +1,22 @@
+[
+{"id":"k1","kanji":"日","meaning":"day, sun","onyomi":"ニチ, ジツ","kunyomi":"ひ, か","strokes":4,"jlpt":"N5","examples":[{"word":"日本","reading":"にほん","meaning":"Japan"},{"word":"今日","reading":"きょう","meaning":"today"}]},
+{"id":"k2","kanji":"一","meaning":"one","onyomi":"イチ","kunyomi":"ひと","strokes":1,"jlpt":"N5","examples":[{"word":"一人","reading":"ひとり","meaning":"one person"},{"word":"一つ","reading":"ひとつ","meaning":"one thing"}]},
+{"id":"k3","kanji":"人","meaning":"person","onyomi":"ジン, ニン","kunyomi":"ひと","strokes":2,"jlpt":"N5","examples":[{"word":"日本人","reading":"にほんじん","meaning":"Japanese person"},{"word":"三人","reading":"さんにん","meaning":"three people"}]},
+{"id":"k4","kanji":"年","meaning":"year","onyomi":"ネン","kunyomi":"とし","strokes":6,"jlpt":"N5","examples":[{"word":"今年","reading":"ことし","meaning":"this year"},{"word":"来年","reading":"らいねん","meaning":"next year"}]},
+{"id":"k5","kanji":"大","meaning":"big","onyomi":"ダイ, タイ","kunyomi":"おお","strokes":3,"jlpt":"N5","examples":[{"word":"大学","reading":"だいがく","meaning":"university"},{"word":"大きい","reading":"おおきい","meaning":"big"}]},
+{"id":"k6","kanji":"学","meaning":"study, learning","onyomi":"ガク","kunyomi":"まな","strokes":8,"jlpt":"N5","examples":[{"word":"学校","reading":"がっこう","meaning":"school"},{"word":"学生","reading":"がくせい","meaning":"student"}]},
+{"id":"k7","kanji":"本","meaning":"book, origin","onyomi":"ホン","kunyomi":"もと","strokes":5,"jlpt":"N5","examples":[{"word":"日本","reading":"にほん","meaning":"Japan"},{"word":"本","reading":"ほん","meaning":"book"}]},
+{"id":"k8","kanji":"水","meaning":"water","onyomi":"スイ","kunyomi":"みず","strokes":4,"jlpt":"N5","examples":[{"word":"水曜日","reading":"すいようび","meaning":"Wednesday"},{"word":"水","reading":"みず","meaning":"water"}]},
+{"id":"k9","kanji":"火","meaning":"fire","onyomi":"カ","kunyomi":"ひ","strokes":4,"jlpt":"N5","examples":[{"word":"火曜日","reading":"かようび","meaning":"Tuesday"},{"word":"火山","reading":"かざん","meaning":"volcano"}]},
+{"id":"k10","kanji":"山","meaning":"mountain","onyomi":"サン","kunyomi":"やま","strokes":3,"jlpt":"N5","examples":[{"word":"富士山","reading":"ふじさん","meaning":"Mt. Fuji"},{"word":"山","reading":"やま","meaning":"mountain"}]},
+{"id":"k11","kanji":"川","meaning":"river","onyomi":"セン","kunyomi":"かわ","strokes":3,"jlpt":"N5","examples":[{"word":"川","reading":"かわ","meaning":"river"},{"word":"河川","reading":"かせん","meaning":"rivers"}]},
+{"id":"k12","kanji":"食","meaning":"eat, food","onyomi":"ショク","kunyomi":"た","strokes":9,"jlpt":"N5","examples":[{"word":"食べる","reading":"たべる","meaning":"to eat"},{"word":"食事","reading":"しょくじ","meaning":"meal"}]},
+{"id":"k13","kanji":"行","meaning":"go","onyomi":"コウ, ギョウ","kunyomi":"い","strokes":6,"jlpt":"N5","examples":[{"word":"旅行","reading":"りょこう","meaning":"travel"},{"word":"行く","reading":"いく","meaning":"to go"}]},
+{"id":"k14","kanji":"見","meaning":"see","onyomi":"ケン","kunyomi":"み","strokes":7,"jlpt":"N5","examples":[{"word":"見る","reading":"みる","meaning":"to see"},{"word":"意見","reading":"いけん","meaning":"opinion"}]},
+{"id":"k15","kanji":"話","meaning":"talk","onyomi":"ワ","kunyomi":"はな","strokes":13,"jlpt":"N5","examples":[{"word":"話す","reading":"はなす","meaning":"to speak"},{"word":"電話","reading":"でんわ","meaning":"telephone"}]},
+{"id":"k16","kanji":"語","meaning":"language, word","onyomi":"ゴ","kunyomi":"かた","strokes":14,"jlpt":"N5","examples":[{"word":"日本語","reading":"にほんご","meaning":"Japanese language"},{"word":"英語","reading":"えいご","meaning":"English"}]},
+{"id":"k17","kanji":"時","meaning":"time, hour","onyomi":"ジ","kunyomi":"とき","strokes":10,"jlpt":"N5","examples":[{"word":"時間","reading":"じかん","meaning":"time"},{"word":"時計","reading":"とけい","meaning":"clock"}]},
+{"id":"k18","kanji":"間","meaning":"interval, between","onyomi":"カン, ケン","kunyomi":"あいだ","strokes":12,"jlpt":"N5","examples":[{"word":"時間","reading":"じかん","meaning":"time"},{"word":"間","reading":"あいだ","meaning":"between"}]},
+{"id":"k19","kanji":"先","meaning":"before, ahead","onyomi":"セン","kunyomi":"さき","strokes":6,"jlpt":"N5","examples":[{"word":"先生","reading":"せんせい","meaning":"teacher"},{"word":"先週","reading":"せんしゅう","meaning":"last week"}]},
+{"id":"k20","kanji":"生","meaning":"life, birth","onyomi":"セイ, ショウ","kunyomi":"い","strokes":5,"jlpt":"N5","examples":[{"word":"学生","reading":"がくせい","meaning":"student"},{"word":"生まれる","reading":"うまれる","meaning":"to be born"}]}
+]
